@@ -1,0 +1,52 @@
+:root {
+    --cor1: #91786C;
+    --cor2: #ad5b83;
+}
+
+body {
+    background-color: #F3E5D8;
+}
+
+main {
+    background-color: white;
+    margin: auto;
+    max-width: 600px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+main .receita-imagem {
+    text-align: center;
+}
+
+main .receita {
+    padding: 25px;
+    text-align: justify;
+}
+    
+main .receita  {
+    text-align: left;
+}
+
+main .receita h3 {
+    text-indent: 20px;
+}
+  
+main .receita h2 {
+    color: #91786C;
+}
+
+main .receita h3 {
+    color: #ad5b83;
+}
+
+main table {
+    text-indent: 40px;
+}
+
+main table .nutr {
+    color: var(--cor1);
+}
+    
+
+
